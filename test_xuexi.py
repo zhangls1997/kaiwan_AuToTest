@@ -1,6 +1,5 @@
 #!/user/bin/python
-#!-*- coding:utf-8 -*-
-import pytest
+#!-*- coding:utf-8 -*-import pytest
 def add(a,b):
     return a+b
 def zhang(a,b):
@@ -25,3 +24,19 @@ class Testcase(object):
         assert sheng(6,2) == 3
 if __name__ == "__main__":
     pytest.main(["-s","test_xuexi.py"])
+
+""""
+import requests
+headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0'}
+r = requests.get("https://wwww.baidu.com",headers=headers)
+r.content.decode('utf-8')
+print(r.content.decode("utf-8"))
+"""
+try:
+    pass
+except:
+    pass
+else:
+    pass
+finally:
+    print(1)
