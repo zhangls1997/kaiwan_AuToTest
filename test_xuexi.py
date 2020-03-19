@@ -1,5 +1,6 @@
 #!/user/bin/python
-#!-*- coding:utf-8 -*-import pytest
+#!-*- coding:utf-8 -*-
+import pytest
 def add(a,b):
     return a+b
 def zhang(a,b):
@@ -32,11 +33,11 @@ r = requests.get("https://wwww.baidu.com",headers=headers)
 r.content.decode('utf-8')
 print(r.content.decode("utf-8"))
 """
-try:
-    pass
-except:
-    pass
-else:
-    pass
-finally:
-    print(1)
+# try:
+#     pass
+# except:
+#     pass
+# else:
+#     pass
+# finally:
+#     print(1)
