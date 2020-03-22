@@ -1,0 +1,53 @@
+{
+  "uid" : "f19c472517321119",
+  "name" : "test_thour",
+  "fullName" : "test_xuexi.Testcase#test_thour",
+  "historyId" : "5909e8b1f62815fb27971b60d54b5db9",
+  "time" : {
+    "start" : 1584876641205,
+    "stop" : 1584876641205,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_xuexi"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3BI0492"
+  }, {
+    "name" : "thread",
+    "value" : "16736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_xuexi"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f19c472517321119.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "3dec575aaea267d6",
+  "name" : "test_two",
+  "fullName" : "test_xuexi.Testcase#test_two",
+  "historyId" : "2048247ef0d4bef2fcbe3e6d6f00dcf7",
+  "time" : {
+    "start" : 1584876641185,
+    "stop" : 1584876641186,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_xuexi"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcase"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3BI0492"
+  }, {
+    "name" : "thread",
+    "value" : "16736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_xuexi"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3dec575aaea267d6.json",
+  "parameterValues" : [ ]
+}
