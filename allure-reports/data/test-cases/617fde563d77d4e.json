@@ -1,12 +1,12 @@
 {
-  "uid" : "49d6148f807d0d0a",
-  "name" : "test_one",
-  "fullName" : "test_xuexi.Testcase#test_one",
-  "historyId" : "73625a8856c2d603a831083dccde1ce3",
+  "uid" : "617fde563d77d4e",
+  "name" : "test_thour",
+  "fullName" : "test_xuexi.Testcase#test_thour",
+  "historyId" : "5909e8b1f62815fb27971b60d54b5db9",
   "time" : {
-    "start" : 1584876641176,
-    "stop" : 1584876641177,
-    "duration" : 1
+    "start" : 1584876641205,
+    "stop" : 1584876641205,
+    "duration" : 0
   },
   "status" : "passed",
   "flaky" : false,
@@ -48,6 +48,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "49d6148f807d0d0a.json",
+  "source" : "617fde563d77d4e.json",
   "parameterValues" : [ ]
 }

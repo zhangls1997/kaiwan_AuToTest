@@ -5,7 +5,7 @@
     "name" : "test_xuexi",
     "children" : [ {
       "name" : "test_one",
-      "uid" : "49d6148f807d0d0a",
+      "uid" : "d593aa053c5aeecf",
       "parentUid" : "5b593ff5558e6b810a93efd2e4a4ad5d",
       "status" : "passed",
       "time" : {
@@ -18,7 +18,7 @@
       "parameters" : [ ]
     }, {
       "name" : "test_two",
-      "uid" : "3dec575aaea267d6",
+      "uid" : "88236d31c4683c6c",
       "parentUid" : "5b593ff5558e6b810a93efd2e4a4ad5d",
       "status" : "passed",
       "time" : {
@@ -31,7 +31,7 @@
       "parameters" : [ ]
     }, {
       "name" : "test_three",
-      "uid" : "cec40e676191705c",
+      "uid" : "a224e601c084597",
       "parentUid" : "5b593ff5558e6b810a93efd2e4a4ad5d",
       "status" : "passed",
       "time" : {
@@ -44,7 +44,7 @@
       "parameters" : [ ]
     }, {
       "name" : "test_thour",
-      "uid" : "f19c472517321119",
+      "uid" : "617fde563d77d4e",
       "parentUid" : "5b593ff5558e6b810a93efd2e4a4ad5d",
       "status" : "passed",
       "time" : {
