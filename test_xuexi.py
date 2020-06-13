@@ -27,8 +27,8 @@ class Testcase(object):
     def test_thour(self):
         print("正在执行-----test_thour")
         assert sheng(6,2) == 3
-# if __name__ == "__main__":
-    # pytest.main(["-s",'-v',"test_xuexi.py"])#运行文件
+if __name__ == "__main__":
+    pytest.main(["-s",'-v',"test_xuexi.py"])#运行文件
     # pytest.main(['--collect-only'])    #  已运行的全部用例情况
     # pytest.main(['-k','one or two','--collect-only','test_xuexi.py'])  #希望要运行用例的情况
     # pytest.main(['-k', 'one or two','test_xuexi.py']) #指定运行用例
@@ -65,3 +65,6 @@ class Testcase(object):
 #     pass
 # finally:
 #     print(1)  #无论上面结果如何都执行  finally语句
+
+
+import pytest
