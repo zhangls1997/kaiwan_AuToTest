@@ -13,7 +13,7 @@ def downloadFile(name,url):
         ishow_list = os.listdir('.')
     if "ishow.apk" in ishow_list:  # 判断apk包是否存在当前目录
         os.remove(ishow_list[0])
-        new_ishow_list = os.listdir('.')
+    new_ishow_list = os.listdir('.')
     if "ishow.apk" not in new_ishow_list:
         with open(r"E:\is_appium\app\ishow.apk", "wb") as ishow_package:
             count = 0

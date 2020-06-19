@@ -1,6 +1,7 @@
 #!/user/bin/python
 #!-*- coding:utf-8 -*-
 import pytest
+import random
 def add(a,b):
     return a+b
 def zhang(a,b):
@@ -23,8 +24,8 @@ class Testcase(object):
     def test_thour(self):
         print("正在执行-----test_thour")
         assert sheng(6,2) == 3
-if __name__ == "__main__":
-    pytest.main(["-s","test_xuexi.py"])
+# if __name__ == "__main__":
+#     pytest.main(["-s","test_xuexi.py"])
 
 """"
 import requests
